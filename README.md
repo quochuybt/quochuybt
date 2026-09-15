@@ -64,7 +64,7 @@ I'd love to connect! Feel free to reach out:
 
 [![GitHub](https://img.shields.io/badge/GitHub-quochuybt-000000?style=for-the-badge&logo=github)](https://github.com/quochuybt)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:quochuybt2005@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/huy-l%C3%AA-nguy%E1%BB%85n-qu%E1%BB%91c-92ba90428/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huy-l%C3%AA-nguy%E1%BB%85n-qu%E1%BB%91c-92ba90428/)
 
 </div>
 
