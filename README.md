@@ -55,82 +55,6 @@ Hi! I'm a passionate **Software Engineer** and **Full-Stack Developer** currentl
 
 ---
 
-## 🛠️ Key Skills
-
-<table>
-  <tr>
-    <td align="center"><b>Backend</b></td>
-    <td align="center"><b>Frontend</b></td>
-    <td align="center"><b>Database</b></td>
-    <td align="center"><b>Tools</b></td>
-  </tr>
-  <tr>
-    <td>
-      • Java OOP<br/>
-      • Spring Boot<br/>
-      • REST APIs<br/>
-      • Microservices<br/>
-      • Design Patterns
-    </td>
-    <td>
-      • React Hooks<br/>
-      • State Management<br/>
-      • Component Design<br/>
-      • Responsive UI<br/>
-      • React Native
-    </td>
-    <td>
-      • SQL Design<br/>
-      • Query Optimization<br/>
-      • Data Modeling<br/>
-      • CRUD Operations<br/>
-      • Transactions
-    </td>
-    <td>
-      • Version Control<br/>
-      • Docker<br/>
-      • API Testing<br/>
-      • Debugging<br/>
-      • Agile
-    </td>
-  </tr>
-</table>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=quochuybt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4&icon_color=06B6D4&text_color=8B8B8B)](https://github.com/quochuybt)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=quochuybt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4&text_color=8B8B8B)](https://github.com/quochuybt)
-
-</div>
-
----
-
-## 🎨 What I Love
-
-- ✨ Writing clean, readable, and maintainable code
-- 🏗️ Building scalable architectures
-- 🔍 Problem-solving and debugging
-- 📈 Optimizing performance
-- 🚀 Learning and adopting new technologies
-- 🤝 Collaborating with teams
-- 📚 Sharing knowledge with others
-
----
-
-## 🎯 Current Focus
-
-- 🔥 Deep diving into **Advanced Spring Boot** concepts
-- 📱 Exploring **React Native** for mobile development
-- 🏢 Building **microservices** architecture
-- 🧪 Mastering **unit testing** and **TDD**
-- 🐳 Containerization with **Docker & Kubernetes**
-
----
 
 ## 📫 Get In Touch
 
@@ -151,7 +75,5 @@ I'd love to connect! Feel free to reach out:
 ### ⭐ Thanks for visiting my profile!
 
 *If you like my work, feel free to star my repositories and follow me for more projects.*
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=quochuybt.quochuybt)
 
 </div>
