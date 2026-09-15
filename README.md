@@ -34,31 +34,6 @@
 
 </div>
 
-📈 GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=quochuybt&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quochuybt&layout=compact&hide_border=true&theme=tokyonight" height="165"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=quochuybt&theme=tokyonight&hide_border=true" width="70%"/>
-
-</div>
-
-🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/quochuybt/quochuybt/output/github-contribution-grid-snake.svg" width="90%"/>
-
-</div>
-
-<div align="center">
-
-🤝 Let's build something great.
-
 <a href="https://github.com/quochuybt">
 <img src="https://img.shields.io/badge/Follow%20me-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
